@@ -1,0 +1,12 @@
+/*
+Theme Name:     Twenty Twelve Child
+Theme URI:      http://example.com/
+Description:    Adds events page template to Twenty Twelve theme
+Author:         Atte Moisio
+Author URI:     http://example.com/about/
+Template:       twentytwelve                             
+Version:        0.1.0
+*/
+
+/* Import the parent theme's stylesheet */
+@import url("../twentytwelve/style.css");
