@@ -1,4 +1,4 @@
-Example Twenty-Twelve child theme for integrating AM-Events into an existing theme.
+Example Twenty-Twelve child theme for integrating [AM-Events](https://wordpress.org/plugins/am-events/) into an existing theme.
 
 For more information on child themes, see [http://codex.wordpress.org/Child_Themes](http://codex.wordpress.org/Child_Themes)
 
